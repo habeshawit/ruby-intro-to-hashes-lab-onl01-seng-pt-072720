@@ -34,7 +34,6 @@ def monopoly_with_third_tier
 	      :reading_railroad => {},
 	      :pennyslavania_railroad => {}
 	      
-	      
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
